@@ -1,0 +1,21 @@
+.App {
+  font-family: 'Roboto';
+  text-align: center;
+
+}
+/* body{
+  background: rgb(206, 116, 139);
+} */
+.marginItem{
+  margin-Left: 25px;
+   margin-Right: 5px; 
+}
+.restImage{
+  width:100%;
+  height:150px;
+  border-radius:15px;
+}
+.ratingImage{
+  width:15px;
+  height:15px;
+}

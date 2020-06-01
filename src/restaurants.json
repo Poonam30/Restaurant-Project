@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Masteca e Tasi",
+    "type": "take-away",
+    "price": "$$",
+    "isOpen": true,
+    "rating":"4"
+  },
+  {
+    "name": "Restaurant 2",
+    "type": "eat-in",
+    "price": "$$$",
+    "isOpen": false,
+    "rating":"3"
+
+  },
+  {
+    "name": "Restaurant 3",
+    "type": "delivery",
+    "price": "$",
+    "isOpen": true,
+    "rating":"4"
+
+  },
+  {
+    "name": "Restaurant 4",
+    "type": "eat-in",
+    "price": "$",
+    "isOpen": true,
+    "rating":"3"
+
+  },
+  {
+    "name": "Restaurant 5",
+    "type": "delivery",
+    "price": "$$$",
+    "isOpen": false,
+    "rating":"2.3"
+
+  },
+  {
+    "name": "Restaurant 6",
+    "type": "eat-in",
+    "price": "$$",
+    "isOpen": false,
+    "rating":"2"
+
+  },
+  {
+    "name": "Restaurant 7",
+    "type": "take-away",
+    "price": "$$",
+    "isOpen": true,
+    "rating":"2"
+
+  },
+  {
+    "name": "Restaurant 8",
+    "type": "take-away",
+    "price": "$",
+    "isOpen": true,
+    "rating":"4"
+
+  }
+]
