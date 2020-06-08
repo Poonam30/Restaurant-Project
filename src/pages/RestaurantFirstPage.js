@@ -63,7 +63,7 @@ export default function RestaurantFirstPage() {
                   style={{ width: "100px", height: "95px" }}
                 />
                 <h1 style={{ color: "rgb(151, 36, 65)" }}>
-                  Favourite Food Finder
+                  Friendly Food Finder
               </h1>
                 <h3 style={{ color: "rgb(151, 36, 65)" }}>
                   <Typed
